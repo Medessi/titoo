@@ -1,0 +1,33 @@
+{
+  "folders": [
+    "C:/Users/Medessi Cvi/Desktop/3D",
+    "C:/Users/Medessi Cvi/Desktop/aaaaa"
+  ],
+  "frequency": "weekly",
+  "sort_type": "date",
+  "auto_surveillance": true,
+  "execution_time": "09:00",
+  "last_organization": "2025-06-10T03:07:11.055968",
+  "organization_history": [
+    {
+      "timestamp": "2025-06-10T03:07:11.055968",
+      "action": "Organisation terminée",
+      "details": "Organisation terminée avec succès!"
+    },
+    {
+      "timestamp": "2025-06-10T03:07:04.434426",
+      "action": "Début d'organisation",
+      "details": "Organisation de 2 dossier(s) - Type: date"
+    },
+    {
+      "timestamp": "2025-06-10T03:06:55.161395",
+      "action": "Organisation terminée",
+      "details": "Organisation terminée avec succès!"
+    },
+    {
+      "timestamp": "2025-06-10T03:06:51.043764",
+      "action": "Début d'organisation",
+      "details": "Organisation de 1 dossier(s) - Type: date"
+    }
+  ]
+}
