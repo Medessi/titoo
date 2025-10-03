@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond bleu professionnel -->
+  <rect width="300" height="300" rx="10" fill="#0066cc"/>
+  
+  <!-- T en blanc bien défini avec extrémités carrées -->
+  <g transform="translate(75, 50)">
+    <rect x="0" y="0" width="150" height="40" fill="white"/>
+    <rect x="55" y="0" width="40" height="200" fill="white"/>
+  </g>
+</svg>
